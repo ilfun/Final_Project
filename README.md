@@ -1,7 +1,9 @@
 # Final_Project
-В репозитории Final Project  два файла: 
+В репозитории Final Project расположены следующие файлы: 
 
 1. Final Project v1 - непосредственно работа с данными. 
 2. Salaries - файл с данными 
+3. Review2 - последние замечания по проекту
+4. ПЕРЕЗАПУСК_Data_Analyst_Фундылер Илья Семенович - презентация 
 
-Замечания по предыдущей версии проекта отражены в branch - airparadox-patch-1 в файле Preprocessing_Data_review1
+
